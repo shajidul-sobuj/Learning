@@ -17,3 +17,4 @@ let randomstring = 'Iam "Sobuj"' // evabeo likhte paro, but double "" boro stign
 
 console.log(randomstring);
 
+// stirng common hole onek syntex ache 
