@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "JAVA/01-Java-Foundation/03-Operators-and-Type-Casting/examples",
+        "JAVA/01-Java-Foundation/02-Variables-and-Data-Types/examples",
+        "JAVA/01-Java-Foundation/02-Variables-and-Data-Types",
+        "JAVA/01-Java-Foundation/01-Getting-Started/examples",
+        "JAVA/01-Java-Foundation/01-Getting-Started",
+        "JAVA/01-Java-Foundation/03-Operators-and-Type-Casting"
+    ]
+}
