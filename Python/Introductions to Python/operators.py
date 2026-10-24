@@ -6,5 +6,5 @@ print(a+b)
 print(a-b)
 print(a * b)
 print(b / a)           # float vga  kora
-print(b // a)          # int/ bhag fol arki
+print(b // a)          # int/ bhag fol arki               (floor division)
 print(b % a)           # bhag sesh
