@@ -33,3 +33,7 @@ if school and college and vassidi :
 else :
     print("Nothing...")
 
+
+
+if school is True :
+    print("Yes True")
