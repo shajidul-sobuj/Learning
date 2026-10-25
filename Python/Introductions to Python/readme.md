@@ -1,23 +1,48 @@
 # Introduction to Python
 
-This folder contains small beginner-friendly Python scripts covering basic syntax and concepts.
+This project is a beginner-friendly Python learning folder. It contains small scripts that cover the most basic Python concepts for new learners.
 
-## Examples
+## Project Goal
 
-| File | What it demonstrates |
-| --- | --- |
-| `hello.py` | A simple “Hello, World” style print statement |
-| `main.py` | A basic print statement |
-| `Basic_Data_Types_and_Variables_in_python.py` | Variables, strings, integers, floats, booleans, f-strings, and `type()` |
-| `input_in_pytohn.py` | Reading user input, converting input to numbers, adding amounts, and calculating an average |
-| `operators.py` | Basic arithmetic operators: addition, subtraction, multiplication, division, floor division, and modulo |
+The goal of this project is to help learners understand:
 
-## Run an example
+- Python syntax
+- Variables and data types
+- User input handling
+- Operators
+- Conditional statements
+- Basic printing and output
 
-Install Python 3, then run a script from this folder:
+## Files in this project
+
+| File | Topic | Description |
+| --- | --- | --- |
+| `hello.py` | Basic output | Prints a simple `Hello, World!` message |
+| `main.py` | Intro to Python | Simple Python script example |
+| `Basic_Data_Types_and_Variables_in_python.py` | Variables and types | Demonstrates strings, integers, floats, booleans, f-strings, and `type()` |
+| `Conditional_Statement.py` | Conditional logic | Covers `if`, `elif`, `else`, nested conditions, and boolean checks |
+| `input_in_pytohn.py` | Input handling | Reads user input, converts values to numbers, adds them, and calculates average |
+| `operators.py` | Arithmetic operators | Demonstrates `+`, `-`, `*`, `/`, `//`, and `%` |
+| `readme.md` | Documentation | Project overview and usage guide |
+
+## Run a script
+
+Make sure Python 3 is installed, then run any file from this folder using:
 
 ```bash
 python3 hello.py
 ```
 
-Replace `hello.py` with the name of another script to try a different example. The input example prompts for values in the terminal.
+You can replace `hello.py` with any other file name, for example:
+
+```bash
+python3 Conditional_Statement.py
+python3 input_in_pytohn.py
+python3 operators.py
+```
+
+## Notes
+
+- Some scripts ask for user input in the terminal.
+- This project is intended for learning and practicing Python basics.
+- It is a good starting point for students who are beginning Python programming.
