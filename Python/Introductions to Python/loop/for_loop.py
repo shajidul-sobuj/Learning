@@ -8,7 +8,15 @@
 #     print(c)
 
 
-n = int(input())
+# n = int(input())
 
-for digi in range(1, n+1) :
-    print(digi)
+# for digi in range(1, n+1) :
+#     print(digi)
+
+
+
+arr = [2,3,2]
+arr.insert(0,5)
+
+for x in arr :
+    print(x)
