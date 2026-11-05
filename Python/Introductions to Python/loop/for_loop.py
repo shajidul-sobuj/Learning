@@ -15,8 +15,14 @@
 
 
 
-arr = [2,3,2]
-arr.insert(0,5)
+# arr = [2,3,2]
+# arr.insert(0,5)
 
-for x in arr :
-    print(x)
+# for x in arr :
+#     print(x)
+
+
+# indexing kore print er
+arr = [1,2,6,7,8,9,11,15]
+for dig in range(0,8):            # range ee 2nd val er ager ta porjonto kaj kore
+    print(arr[dig])
