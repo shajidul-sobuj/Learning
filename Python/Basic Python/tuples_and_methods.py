@@ -17,6 +17,7 @@
 
 
 items = ('pen', 221, 'red')
+items = items + ('black',)           # append kora jayna but tupel jora lagnao jay, so eivabe chaile add kora jete pare
 print(len(items))
 print(items[0:])
 
