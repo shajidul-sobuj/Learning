@@ -48,3 +48,14 @@ numbers = (10, 20, 30, 40, 50)
 print(numbers[0])
 print(numbers[2])
 print(numbers[-1])
+
+
+# count()
+# The count() method returns how many times a particular element appears in a tuple.
+print(numbers.count(10))
+
+# index()
+# The index() method returns the index position of the first occurrence of a specified element.
+
+fruits = ("apple", "banana", "mango", "banana")
+print(fruits.index("mango"))
