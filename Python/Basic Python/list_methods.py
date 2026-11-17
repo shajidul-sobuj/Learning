@@ -31,4 +31,4 @@ fre = numbers.count(99)
 print(fre)
 
 # array sort korte...  sort(*)
-numbers.sort(*)
+numbers.sort()
